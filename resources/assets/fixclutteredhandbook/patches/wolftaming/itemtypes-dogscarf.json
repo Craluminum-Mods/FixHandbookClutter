@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "wolftaming:itemtypes/dogscarf.json",
+		"value": { "handbook": { "groupBy": ["dogscarf-*"] } },
+		"dependsOn": [{"modid": "wolftaming"}]
+	}
+]

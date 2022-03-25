@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "file": "cottagewindows:blocktypes/wood/cottagewindowtallupper.json",
+    "value": ["cottagewindowtallupper-*"],
+    "dependsOn": [{"modid": "cottagewindows"}]
+  }
+]

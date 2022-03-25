@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/harehide.json",
+		"value": { "handbook": { "groupBy": ["harehide-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

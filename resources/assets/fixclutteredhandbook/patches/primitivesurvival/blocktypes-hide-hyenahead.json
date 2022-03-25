@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/hyenahead.json",
+		"value": { "handbook": { "groupBy": ["hyenahead-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

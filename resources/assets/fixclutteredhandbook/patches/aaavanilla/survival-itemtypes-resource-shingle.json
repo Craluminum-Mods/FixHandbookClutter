@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["shingle-*"] },
+    "file": "game:itemtypes/resource/shingle.json"
+  }
+]

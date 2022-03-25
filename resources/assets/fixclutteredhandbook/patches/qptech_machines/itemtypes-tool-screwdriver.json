@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "machines:itemtypes/tool/screwdriver.json",
+    "value": { "groupBy": ["screwdriver-*"] },
+    "dependsOn": [{ "modid": "qptech" }]
+  }
+]

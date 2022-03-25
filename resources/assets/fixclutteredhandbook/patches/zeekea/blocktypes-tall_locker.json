@@ -1,0 +1,16 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "zeekea:blocktypes/tall_locker.json",
+    "value": {},
+		"dependsOn": [{"modid": "zeekea"}]
+	},
+  {
+		"op": "add",
+		"path": "/attributes/handbook",
+		"file": "zeekea:blocktypes/tall_locker.json",
+		"value": { "groupBy": ["tall_locker-*"] },
+		"dependsOn": [{"modid": "zeekea"}]
+	}
+]

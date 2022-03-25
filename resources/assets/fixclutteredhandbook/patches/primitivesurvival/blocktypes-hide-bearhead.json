@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/bearhead.json",
+		"value": { "handbook": { "groupBy": ["bearhead-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

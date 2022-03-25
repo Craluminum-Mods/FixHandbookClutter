@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "machines:blocktypes/other/cabinet.json",
+    "value": { "groupBy": ["cabinet-{position}-*"] },
+    "dependsOn": [{ "modid": "qptech" }]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/bearhide.json",
+		"value": { "handbook": { "groupBy": ["bearhide-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

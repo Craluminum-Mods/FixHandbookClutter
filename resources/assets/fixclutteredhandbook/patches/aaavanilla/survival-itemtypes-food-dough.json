@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["dough-*"] },
+    "file": "game:itemtypes/food/dough.json"
+  }
+]

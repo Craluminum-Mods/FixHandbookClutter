@@ -1,0 +1,16 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "zeekea:blocktypes/bench.json",
+    "value": {},
+		"dependsOn": [{"modid": "zeekea"}]
+	},
+  {
+		"op": "add",
+		"path": "/attributes/handbook",
+		"file": "zeekea:blocktypes/bench.json",
+		"value": { "groupBy": ["bench-*"] },
+		"dependsOn": [{"modid": "zeekea"}]
+	}
+]

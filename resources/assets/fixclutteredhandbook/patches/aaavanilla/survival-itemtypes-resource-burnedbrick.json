@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["burnedbrick-*"],
+    "file": "game:itemtypes/resource/burnedbrick.json"
+  }
+]

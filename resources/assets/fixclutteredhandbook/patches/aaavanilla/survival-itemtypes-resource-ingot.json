@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["ingot-*"],
+    "file": "game:itemtypes/resource/ingot.json"
+  }
+]

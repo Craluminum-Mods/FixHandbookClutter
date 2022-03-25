@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "machines:blocktypes/other/sink.json",
+    "value": { "groupBy": ["sink-*"] },
+    "dependsOn": [{ "modid": "qptech" }]
+  }
+]

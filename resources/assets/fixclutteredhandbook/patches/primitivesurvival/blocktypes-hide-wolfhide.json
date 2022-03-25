@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/wolfhide.json",
+		"value": { "handbook": { "groupBy": ["wolfhide-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

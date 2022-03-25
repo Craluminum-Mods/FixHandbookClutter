@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes",
+    "file": "lichen:blocktypes/cresentchair.json",
+    "value": {},
+    "dependsOn": [{"modid": "lichen"}]
+  },
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "lichen:blocktypes/cresentchair.json",
+    "value": { "groupBy": ["cresentchair-*"] },
+    "dependsOn": [{"modid": "lichen"}]
+  }
+]

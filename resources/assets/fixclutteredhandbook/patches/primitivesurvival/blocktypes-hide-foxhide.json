@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/foxhide.json",
+		"value": { "handbook": { "groupBy": ["foxhide-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

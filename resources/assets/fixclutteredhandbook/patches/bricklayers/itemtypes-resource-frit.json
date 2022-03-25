@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/frit.json",
+    "value": ["frit-{state}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  }
+]

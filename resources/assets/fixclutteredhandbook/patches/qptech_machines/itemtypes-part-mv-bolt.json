@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes",
+    "file": "machines:itemtypes/part/mv/bolt.json",
+    "value": {},
+    "dependsOn": [{ "modid": "qptech" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "machines:itemtypes/part/mv/bolt.json",
+    "value": { "groupBy": ["bolt-*"] },
+    "dependsOn": [{ "modid": "qptech" }]
+  }
+]

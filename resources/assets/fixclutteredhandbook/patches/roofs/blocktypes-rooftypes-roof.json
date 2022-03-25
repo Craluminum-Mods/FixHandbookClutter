@@ -1,0 +1,15 @@
+[
+	{
+		"op": "remove",
+		"path": "/attributes/handbook",
+		"file": "blocks:blocktypes/rooftypes/roof.json",
+		"dependsOn":[{"modid":"shinglesandthethings"}]
+	},
+	{
+		"op": "add",
+		"path": "/attributes/handbook",
+		"file": "blocks:blocktypes/rooftypes/roof.json",
+		"value": { "groupBy": ["roof-{type}-*"] },
+		"dependsOn":[{"modid":"shinglesandthethings"}]
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{
+    "op": "add",
+    "path": "/attributes",
+    "file": "dsdebarkedlogs:blocktypes/debarkedlog.json",
+    "value": {},
+    "dependsOn": [{"modid": "dsdebarkedlogs"}]
+  },
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "dsdebarkedlogs:blocktypes/debarkedlog.json",
+		"value": { "handbook": { "groupBy": ["debarkedlog-*"] } },
+		"dependsOn": [{"modid": "dsdebarkedlogs"}]
+	}
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes",
+    "file": "zeekea:blocktypes/nightstand.json",
+    "value": {},
+    "dependsOn": [{ "modid": "zeekea" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "zeekea:blocktypes/nightstand.json",
+    "value": { "groupBy": ["nightstand-*"] },
+    "dependsOn": [{ "modid": "zeekea" }]
+  }
+]

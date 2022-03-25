@@ -1,0 +1,72 @@
+[
+  {
+    "op": "add",
+    "path": "/attributesByType/*-milky-smoky/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-quartz-smoky/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-smoky-smoky/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-plain-*/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-dark-*/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-milky-*/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-quartz-*/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-smoky-*/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-opaque-white/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-opaque-*/handbook/groupBy",
+    "file": "bricklayers:itemtypes/resource/glass_batch.json",
+    "value": ["glassbatch-{type}-*"],
+    "dependsOn": [{ "modid": "bricklayers" }]
+  }
+]

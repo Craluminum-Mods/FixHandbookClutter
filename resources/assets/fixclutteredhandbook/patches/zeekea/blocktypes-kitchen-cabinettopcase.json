@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes",
+    "file": "zeekea:blocktypes/kitchen/cabinettopcase.json",
+    "value": {},
+    "dependsOn": [{ "modid": "zeekea" }]
+  },
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "file": "zeekea:blocktypes/kitchen/cabinettopcase.json",
+    "value": { "groupBy": ["cabinettopcase-*-{type}-*"] },
+    "dependsOn": [{ "modid": "zeekea" }]
+  }
+]

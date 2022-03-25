@@ -1,0 +1,9 @@
+[
+  {
+		"op": "add",
+		"path": "/attributes",
+		"file": "primitivesurvival:blocktypes/hide/sheephide.json",
+		"value": { "handbook": { "groupBy": ["sheephide-*"] } },
+		"dependsOn": [{"modid": "primitivesurvival"}]
+	}
+]

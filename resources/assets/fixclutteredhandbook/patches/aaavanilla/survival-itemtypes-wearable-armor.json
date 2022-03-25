@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "value": {
+      "groupByByType": {
+        "*-tailored-*": ["armor-{bodypart}-tailored-*"],
+        "*-brigandine-*": ["armor-{bodypart}-brigandine-*"],
+        "*-chain-*": ["armor-{bodypart}-chain-*"],
+        "*-scale-*": ["armor-{bodypart}-scale-*"],
+        "*-plate-*": ["armor-{bodypart}-plate-*"]
+      }
+    },
+    "file": "game:itemtypes/wearable/armor.json"
+  }
+]
