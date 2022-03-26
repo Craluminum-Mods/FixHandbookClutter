@@ -1,9 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/attributesByType/sliding_door-lowerleft-closed-*",
-    "file": "machines:blocktypes/other/door/slidingdoor.json",
-    "value": { "handbook": { "groupBy": ["sliding_door-*"] } },
-    "dependsOn": [{ "modid": "qptech" }]
-  }
-]

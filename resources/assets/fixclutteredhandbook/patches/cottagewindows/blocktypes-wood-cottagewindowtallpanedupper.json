@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/attributes/handbook/groupBy",
-    "file": "cottagewindows:blocktypes/wood/cottagewindowtallpanedupper.json",
-    "value": ["cottagewindowtallpanedupper-*"],
-    "dependsOn": [{"modid": "cottagewindows"}]
-  }
-]

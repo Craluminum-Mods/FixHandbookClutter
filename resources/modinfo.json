@@ -2,7 +2,7 @@
     "type": "content",
     "name": "Fix Handbook Clutter",
     "modid": "fixhandbookclutter",
-    "version": "1.0.2",
+    "version": "1.0.3",
 
     "description": "Groups billions of items and blocks in the handbook into their own groups.",
     "authors": [ "Craluminum2413" ],

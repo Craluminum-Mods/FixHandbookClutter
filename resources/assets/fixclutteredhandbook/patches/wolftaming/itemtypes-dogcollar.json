@@ -1,9 +1,0 @@
-[
-  {
-		"op": "add",
-		"path": "/attributes",
-		"file": "wolftaming:itemtypes/dogcollar.json",
-		"value": { "handbook": { "groupBy": ["dogcollar-{type}-*"] } },
-		"dependsOn": [{"modid": "wolftaming"}]
-	}
-]
