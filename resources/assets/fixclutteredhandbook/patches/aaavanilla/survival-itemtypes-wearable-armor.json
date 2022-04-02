@@ -8,6 +8,7 @@
         "*-brigandine-*": ["armor-{bodypart}-brigandine-*"],
         "*-chain-*": ["armor-{bodypart}-chain-*"],
         "*-scale-*": ["armor-{bodypart}-scale-*"],
+        "*-lamellar-*": ["armor-{bodypart}-lamellar-*"],
         "*-plate-*": ["armor-{bodypart}-plate-*"]
       }
     },
