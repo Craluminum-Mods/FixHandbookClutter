@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/handbook",
+    "value": {
+      "groupBy": ["camelpack-*"]
+    },
+    "file": "packanimals:itemtypes/camelpack.json",
+    "dependsOn": [{ "modid": "packanimals" }]
+  }
+]
