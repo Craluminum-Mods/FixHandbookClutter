@@ -2,14 +2,7 @@
   {
     "op": "add",
     "path": "/attributes",
-    "value": {},
-    "file": "game:blocktypes/bone/caribouantlerrack.json",
-    "dependsOn": [{ "modid": "dragonflies" }]
-  },
-  {
-    "op": "add",
-    "path": "/attributes/handbook",
-    "value": { "groupBy": ["caribouantlerrack-*"] },
+    "value": { "handbook": { "groupBy": ["caribouantlerrack-*"] } },
     "file": "game:blocktypes/bone/caribouantlerrack.json",
     "dependsOn": [{ "modid": "dragonflies" }]
   }
