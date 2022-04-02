@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["herbseeds-*", "waterherbseeds-*", "seeds"] } },
+    "file": "wildcraft:itemtypes/resources/herbseeds.json",
+    "dependsOn": [{ "modid": "wildcraft" }]
+  }
+]
