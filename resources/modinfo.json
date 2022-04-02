@@ -1,13 +1,13 @@
 {
-    "type": "content",
-    "name": "Fix Handbook Clutter",
-    "modid": "fixhandbookclutter",
-    "version": "1.0.4",
+  "type": "content",
+  "name": "Fix Handbook Clutter",
+  "modid": "fixhandbookclutter",
+  "version": "1.0.4",
 
-    "description": "Groups billions of items and blocks in the handbook into their own groups.",
-    "authors": [ "Craluminum2413" ],
+  "description": "Groups billions of items and blocks in the handbook into their own groups.",
+  "authors": ["Craluminum2413"],
 
-    "dependencies": {
-		"game": "1.16.0"
-    }
+  "dependencies": {
+    "game": "1.16.0"
+  }
 }
