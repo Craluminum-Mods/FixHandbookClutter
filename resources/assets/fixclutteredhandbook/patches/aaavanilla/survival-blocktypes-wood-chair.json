@@ -1,8 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/attributes",
-    "value": { "handbook": { "groupBy": ["chair-*"] } },
-    "file": "game:blocktypes/wood/chair.json"
-  }
-]
