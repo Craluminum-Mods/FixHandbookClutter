@@ -20,7 +20,7 @@
       "args": [
           "a",
           "-tzip",
-          "${env:VINTAGE_STORY_DATA}\\Mods\\${workspaceFolderBasename}-v1.0.4.zip",
+          "${env:VINTAGE_STORY_DATA}\\Mods\\${workspaceFolderBasename}-v1.0.5.zip",
           ".\\resources\\*",
           ".\\license",
       ],
