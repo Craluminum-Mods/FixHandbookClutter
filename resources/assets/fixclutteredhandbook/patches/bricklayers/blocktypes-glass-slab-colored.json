@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/attributes/handbook/groupBy",
-    "file": "bricklayers:blocktypes/glass/slab-colored.json",
-    "value": ["glassslabcolored-*"],
-    "dependsOn": [{ "modid": "bricklayers" }]
-  }
-]

@@ -1,9 +1,0 @@
-[
-  {
-		"op": "add",
-		"path": "/attributes",
-		"file": "primitivesurvival:blocktypes/hide/raccoonhide.json",
-		"value": { "handbook": { "groupBy": ["raccoonhide-*"] } },
-		"dependsOn": [{"modid": "primitivesurvival"}]
-	}
-]

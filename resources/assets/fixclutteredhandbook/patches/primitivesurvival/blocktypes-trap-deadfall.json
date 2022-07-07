@@ -1,9 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/attributes",
-    "file": "primitivesurvival:blocktypes/trap/deadfall.json",
-    "value": { "handbook": { "groupBy": ["deadfall-*"] } },
-    "dependsOn": [{ "modid": "primitivesurvival" }]
-  }
-]

@@ -1,9 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/attributesByType/*-empty*",
-    "file": "primitivesurvival:blocktypes/metal/metalbucket.json",
-    "value": { "handbook": { "groupBy": ["metalbucket-{type}-*"] } },
-    "dependsOn": [{ "modid": "primitivesurvival" }]
-  }
-]

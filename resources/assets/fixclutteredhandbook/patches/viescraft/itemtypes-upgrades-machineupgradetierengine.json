@@ -1,9 +1,0 @@
-[
-  {
-		"op": "add",
-		"path": "/attributes",
-		"file": "viescraft:itemtypes/upgrades/machineupgradetierengine.json",
-		"value": { "handbook": { "groupBy": ["machineupgradetierengine-*"] } },
-		"dependsOn": [{"modid": "viescraft"}]
-	}
-]

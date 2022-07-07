@@ -1,9 +1,0 @@
-[
-  {
-		"op": "add",
-		"path": "/attributes",
-		"file": "primitivesurvival:blocktypes/hide/wolfhead.json",
-		"value": { "handbook": { "groupBy": ["wolfhead-*"] } },
-		"dependsOn": [{"modid": "primitivesurvival"}]
-	}
-]
