@@ -4,6 +4,7 @@
     "path": "/attributes/handbook",
     "value": { "groupBy": ["reindeerpack-*"] },
     "file": "packanimals:itemtypes/reindeerpack.json",
-    "dependsOn": [{ "modid": "packanimals" }]
+    "dependsOn": [{ "modid": "packanimals" }],
+    "side": "server"
   }
 ]

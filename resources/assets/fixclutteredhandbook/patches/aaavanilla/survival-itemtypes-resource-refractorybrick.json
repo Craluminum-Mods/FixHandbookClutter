@@ -3,6 +3,7 @@
     "op": "add",
     "path": "/attributes/handbook",
     "value": { "groupBy": ["refractorybrick-{state}-*"] },
-    "file": "game:itemtypes/resource/refractorybrick.json"
+    "file": "game:itemtypes/resource/refractorybrick.json",
+    "side": "server"
   }
 ]

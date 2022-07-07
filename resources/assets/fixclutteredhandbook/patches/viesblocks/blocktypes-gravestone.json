@@ -4,6 +4,7 @@
 		"path": "/attributes",
 		"file": "viesblocks:blocktypes/gravestone.json",
 		"value": { "handbook": { "groupBy": ["gravestone-*"] } },
-		"dependsOn": [{"modid": "viesblocks"}]
+		"dependsOn": [{"modid": "viesblocks"}],
+    "side": "server"
 	}
 ]

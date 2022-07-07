@@ -3,6 +3,7 @@
     "op": "add",
     "path": "/attributes",
     "value": { "handbook": { "groupBy": ["seeds-*"] } },
-    "file": "game:itemtypes/resource/seeds.json"
+    "file": "game:itemtypes/resource/seeds.json",
+    "side": "server"
   }
 ]

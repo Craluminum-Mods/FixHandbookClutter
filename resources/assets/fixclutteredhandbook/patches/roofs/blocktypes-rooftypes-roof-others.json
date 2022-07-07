@@ -4,6 +4,7 @@
 		"path": "/attributes/handbook/groupBy",
 		"file": "blocks:blocktypes/rooftypes/roof-others.json",
 		"value": ["*-hangover-*"],
-		"dependsOn":[{"modid":"shinglesandthethings"}]
+		"dependsOn":[{"modid":"shinglesandthethings"}],
+    "side": "server"
 	}
 ]

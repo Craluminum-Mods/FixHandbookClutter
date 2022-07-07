@@ -4,6 +4,7 @@
 		"path": "/attributes",
 		"file": "dsdebarkedlogs:itemtypes/scraper.json",
 		"value": { "handbook": { "groupBy": ["scraper-*"] } },
-		"dependsOn": [{"modid": "dsdebarkedlogs"}]
+		"dependsOn": [{"modid": "dsdebarkedlogs"}],
+    "side": "server"
 	}
 ]

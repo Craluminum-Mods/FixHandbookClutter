@@ -4,6 +4,7 @@
 		"path": "/attributes",
 		"file": "fancydoors:blocktypes/fancydoor.json",
 		"value": { "handbook": { "groupBy": ["fancydoor-*"] } },
-		"dependsOn": [{"modid": "fancydoors"}]
+		"dependsOn": [{"modid": "fancydoors"}],
+    "side": "server"
 	}
 ]

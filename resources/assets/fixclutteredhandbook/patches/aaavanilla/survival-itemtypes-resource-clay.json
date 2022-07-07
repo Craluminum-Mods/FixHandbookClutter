@@ -3,6 +3,7 @@
     "op": "add",
     "path": "/attributes/handbook",
     "value": { "groupBy": ["clay-*"] },
-    "file": "game:itemtypes/resource/clay.json"
+    "file": "game:itemtypes/resource/clay.json",
+    "side": "server"
   }
 ]

@@ -3,6 +3,7 @@
     "op": "add",
     "path": "/attributes/handbook",
     "value": { "groupBy": ["cloth-*"] },
-    "file": "game:itemtypes/resource/cloth.json"
+    "file": "game:itemtypes/resource/cloth.json",
+    "side": "server"
   }
 ]

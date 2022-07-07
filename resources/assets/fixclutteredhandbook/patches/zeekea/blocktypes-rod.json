@@ -4,13 +4,15 @@
 		"path": "/attributes",
 		"file": "zeekea:blocktypes/rod.json",
     "value": {},
-		"dependsOn": [{"modid": "zeekea"}]
+		"dependsOn": [{"modid": "zeekea"}],
+    "side": "server"
 	},
   {
 		"op": "add",
 		"path": "/attributes/handbook",
 		"file": "zeekea:blocktypes/rod.json",
 		"value": { "groupBy": ["rod-*"] },
-		"dependsOn": [{"modid": "zeekea"}]
+		"dependsOn": [{"modid": "zeekea"}],
+    "side": "server"
 	}
 ]

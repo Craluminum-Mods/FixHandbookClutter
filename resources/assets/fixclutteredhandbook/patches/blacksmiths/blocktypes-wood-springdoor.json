@@ -4,6 +4,7 @@
 		"path": "/attributes/handbook/groupBy",
 		"file": "blacksmiths:blocktypes/wood/springdoor.json",
 		"value": ["springdoor-*"],
-		"dependsOn": [{"modid": "blacksmiths"}]
+		"dependsOn": [{"modid": "blacksmiths"}],
+    "side": "server"
 	}
 ]

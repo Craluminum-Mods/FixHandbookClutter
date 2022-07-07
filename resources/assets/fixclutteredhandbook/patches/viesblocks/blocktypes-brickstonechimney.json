@@ -4,6 +4,7 @@
 		"path": "/attributes",
 		"file": "viesblocks:blocktypes/chimney/brickstonechimney.json",
 		"value": { "handbook": { "groupBy": ["brickstonechimney-*"] } },
-		"dependsOn": [{"modid": "viesblocks"}]
+		"dependsOn": [{"modid": "viesblocks"}],
+    "side": "server"
 	}
 ]

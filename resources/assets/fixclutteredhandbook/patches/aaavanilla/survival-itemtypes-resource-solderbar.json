@@ -3,6 +3,7 @@
     "op": "add",
     "path": "/attributes",
     "value": { "handbook": { "groupBy": ["solderbar-*"] } },
-    "file": "game:itemtypes/resource/solderbar.json"
+    "file": "game:itemtypes/resource/solderbar.json",
+    "side": "server"
   }
 ]

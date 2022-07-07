@@ -11,6 +11,7 @@
       }
     },
     "file": "tonwexp:itemtypes/wearable/body.json",
-    "dependsOn": [{ "modid": "tonwexp" }]
+    "dependsOn": [{ "modid": "tonwexp" }],
+    "side": "server"
   }
 ]

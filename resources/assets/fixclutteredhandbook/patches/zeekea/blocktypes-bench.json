@@ -4,13 +4,15 @@
 		"path": "/attributes",
 		"file": "zeekea:blocktypes/bench.json",
     "value": {},
-		"dependsOn": [{"modid": "zeekea"}]
+		"dependsOn": [{"modid": "zeekea"}],
+    "side": "server"
 	},
   {
 		"op": "add",
 		"path": "/attributes/handbook",
 		"file": "zeekea:blocktypes/bench.json",
 		"value": { "groupBy": ["bench-*"] },
-		"dependsOn": [{"modid": "zeekea"}]
+		"dependsOn": [{"modid": "zeekea"}],
+    "side": "server"
 	}
 ]

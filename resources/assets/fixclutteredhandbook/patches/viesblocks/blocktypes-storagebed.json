@@ -4,6 +4,7 @@
 		"path": "/attributes",
 		"file": "viesblocks:blocktypes/storagebed.json",
 		"value": { "handbook": { "groupBy": ["storagebed-*"] } },
-		"dependsOn": [{"modid": "viesblocks"}]
+		"dependsOn": [{"modid": "viesblocks"}],
+    "side": "server"
 	}
 ]
